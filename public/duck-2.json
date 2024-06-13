@@ -1,0 +1,11 @@
+{
+    "name": "Duck #02",
+    "description": "Books is perfect way to spend your laisure time.",
+    "attributes": [
+        {
+            "trait_type": "Awesomeness",
+            "value": "Super mega cool"
+        }
+    ],
+    "image": "ipfs://QmTPSH7bkExWcrdXXwQvhN72zDXK9pZzH3AGbCw13f6Lwx/2.jpg"
+}
